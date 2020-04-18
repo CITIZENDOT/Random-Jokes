@@ -1,5 +1,12 @@
 # Random Jokes Generator
 
+If you did't install requests package previously,
+Install it now with below code.
+
+```bash
+pip3 install requests
+```
+
 This python program is just a usage of Joke API.
 Install this with following command.
 
@@ -18,9 +25,6 @@ You could proceed further with the instructions there.
 You may see below response.
 ![Response Screenshot](https://user-images.githubusercontent.com/52322531/79629769-bc5d4600-8169-11ea-86e3-db673d52a367.png)
 *Actual Response may change*
-
-
-
 
 
 #### Copyrights
