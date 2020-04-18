@@ -4,7 +4,7 @@ This python program is just a usage of Joke API.
 Install this with following command.
 
 ```bash
-git install https://github.com/CITIZENDOT/Random-Jokes.git
+git clone https://github.com/CITIZENDOT/Random-Jokes.git
 ```
 
 Change Directory into that Folder and run the python program with the following command.
