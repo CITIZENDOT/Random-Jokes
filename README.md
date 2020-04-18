@@ -20,7 +20,7 @@ Change Directory into that Folder and run the python program with the following 
 python3 RandomJokeGenerator.py
 ```
 
-You could proceed further with the instructions there.
+You could proceed with further with the instructions there.
 
 You may see below response.
 ![Response Screenshot](https://user-images.githubusercontent.com/52322531/79629769-bc5d4600-8169-11ea-86e3-db673d52a367.png)
