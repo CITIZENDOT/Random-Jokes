@@ -10,7 +10,6 @@ print("4. Dark")
 dic = {1: "any", 2: "Miscellaneous", 3: "Programming", 4: "Dark"}
 print("Choose index of the category: ")
 n = int(input())
-n = 3
 if 1<=n<=4:
     error = False
 else:
