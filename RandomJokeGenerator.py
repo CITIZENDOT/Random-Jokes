@@ -49,7 +49,7 @@ if len(string)>0:
         url+='?'
     url+=("contains=" + string)
 r = requests.get(url)
-json_content = json.loads(r.content)
+json_content = json.loads(r.text)
 print("JOKE: ")
 if json_content["error"]==False:
     if json_content["type"]=="single":
